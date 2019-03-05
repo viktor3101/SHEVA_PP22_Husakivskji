@@ -1,0 +1,19 @@
+{
+  "name": "sheva_pp22_husakivskji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktor3101/SHEVA_PP22_Husakivskji.git"
+  },
+  "author": "viktor3101",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktor3101/SHEVA_PP22_Husakivskji/issues"
+  },
+  "homepage": "https://github.com/viktor3101/SHEVA_PP22_Husakivskji#readme"
+}
